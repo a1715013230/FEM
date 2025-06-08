@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 import numpy as np
 import random
-import os
-import sys
-import csv
 
 # from design_parameters import *
 
