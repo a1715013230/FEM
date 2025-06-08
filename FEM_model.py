@@ -9,7 +9,8 @@ import csv
 
 from abaqus import *
 from abaqusConstants import *
-import sketch
+import sketch  
+import sketchPlane
 import part
 import assembly
 import material
